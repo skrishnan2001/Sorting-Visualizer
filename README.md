@@ -1,4 +1,4 @@
 # Sorting Visualizer
 
-Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. 
-Link - https://skrishnan2001.github.io/SortViz/
+Welcome to Sorting Visualizer ! This will give you a clear visual of how the commonly used sorting algorithms work.Sorting algorithms used here - merge sort,quick sort, heap sort and bubble sort.
+link - https://skrishnan2001.github.io/SortViz/
